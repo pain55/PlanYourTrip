@@ -1,0 +1,16 @@
+<nav>
+	<h1>
+		<a href="/">PlanYourTrip</a>
+	</h1>
+	<div class="nav-links">
+		<i class="fa fa-times"></i>
+		<ul>
+			<li><a href="/">HOME</a></li>
+			<li><a href="packages">Packages</a></li>
+			<li><a href="preferences">Preferences</a></li>
+			<li><a href="admin-login">Admin Login</a></li>
+
+		</ul>
+	</div>
+	<i class="fa fa-bars"></i>
+</nav>
